@@ -219,4 +219,4 @@ DirectX 8 is provided as a complete free version, including all features and upd
 Ready to enhance your gaming experience? **Download DirectX 8 now and rediscover your favorite games!**
 
 ---
-**Last updated:** 2026-10-03 06:09:03 UTC
+**Last updated:** 2026-10-03 12:18:14 UTC
